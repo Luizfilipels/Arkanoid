@@ -16,6 +16,7 @@ public class Main {
         System.out.println("--- Arkanoid ---");
         System.out.println("Blocos em jogo: " + Bloco.getNumero_blocos());
         System.out.println("Pontos do jogador: " + player.getPontos());
+        System.out.println("-------------------------------------");
 
         player.destruirBlocos(bloco01);
 
