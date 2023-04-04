@@ -7,4 +7,5 @@ public class Conversor {
         System.out.println("Convertendo para moedas, o jogador tem: " + pontos*100 + " moedas");
     }
 
+
 }

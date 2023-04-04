@@ -11,6 +11,7 @@ public class Jogador {
         pontos++;
     }
 
+
     public int getPontos() {
         return pontos;
     }
