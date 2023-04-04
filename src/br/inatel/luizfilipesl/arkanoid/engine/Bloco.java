@@ -1,5 +1,6 @@
 package br.inatel.luizfilipesl.arkanoid.engine;
 
+
 public class Bloco {
 
     private static int numero_blocos = 0;
